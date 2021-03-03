@@ -278,16 +278,5 @@ img{
    color:#87CEFA;
 }
 
-@media only screen and (min-width: 375px){
-  header{
-    position: fixed;
-    width: 375px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: red;
-    padding: auto ;
-  }
-
   }
 
